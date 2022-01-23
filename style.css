@@ -16,6 +16,27 @@ font-family: 'Ubuntu', sans-serif;
         /* margin-top: 100px; */
 }
 
-.Title{
-        background-image: url(images/banner.png);
+
+.text-color{
+        color: rgb(9, 35, 87);
+}
+.package{
+        border: 0;
+        margin-top: 200px;
+        
+}
+
+
+
+
+
+
+@media only screen and(max-width:688px) {
+        .slide{
+                width: 100%;
+        }
+        .a{
+                margin-left: 30%;
+        }
+        
 }
