@@ -25,6 +25,11 @@ font-family: 'Ubuntu', sans-serif;
         margin-top: 200px;
         
 }
+ .list{
+        font-size: 15px;
+        list-style: none;
+       margin-left: -10px;
+}
 
 
 
