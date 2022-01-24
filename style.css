@@ -26,10 +26,7 @@ font-family: 'Ubuntu', sans-serif;
 .custom-color{
         color: #231D4F;
 }
-.card-title{
-        font-size: 38px;
-        color: #231D4F;
-}
+
  .list{
         font-size: 15px;
         list-style: none;
@@ -46,14 +43,29 @@ font-family: 'Ubuntu', sans-serif;
         margin-top: 25px;
 }
 .bage{
-        left: 85%;
+        left: 80%;
+        transform: translateY(-10px);
 }
 .haighlite{
         background-color: rgb(99, 146, 117);
-        padding-bottom: 50px;
+        padding-bottom: 60px;
         padding-left: 15px;
         color: #fff;
+       
 }
+.haighlite{
+       transform: translateY(-40px)}
+
+.third-btn{
+        width: 90%;
+        margin-top: 50px;
+        background-color: #fff;
+}
+.contact-banner{
+        background-color: rgb(246, 233, 216);
+       
+}
+
 
 
 
@@ -65,18 +77,24 @@ font-family: 'Ubuntu', sans-serif;
         .a{
                 margin-left: 30%;
         }
-        .second{
-                position: relative;
-        }
-        .haighlite{
-        position: none;
-        top: 500px;
+      
+       .third-card{
+               top: 500px;
+       }
+       .card-btn{
+               width: 100%;
+       }
+      .contents{
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+        height: 50%;
+}
+ 
 
                 
         }
        
-        .right-image img{
-                width:50%;
-        }
-        
+       
+
 }
