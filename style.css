@@ -90,6 +90,12 @@ font-family: 'Ubuntu', sans-serif;
         width: 50%;
         height: 50%;
 }
+        span{
+                row-gap: 20px;
+        }
+        .contact{
+                width: 100%;
+        }
  
 
                 
