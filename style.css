@@ -2,19 +2,16 @@ body{
         margin: 0;
         padding: 0;
         font-family: 'Bebas Neue', cursive;
-font-family: 'Oswald', sans-serif;
-font-family: 'Poppins', sans-serif;
-font-family: 'Raleway', sans-serif;
-font-family: 'Roboto Condensed', sans-serif;
-font-family: 'Ubuntu', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Raleway', sans-serif;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
 }
 .header-font{
         color: #3E3E3E;
         font-size: 25px;
 }
-
-
-
 .text-color{
         color: rgb(9, 35, 87);
 }
@@ -68,7 +65,7 @@ font-family: 'Ubuntu', sans-serif;
 
 
 
-
+        /* =================media quary===================== */
 
 @media only screen and(max-width:688px) {
         .slide{
@@ -96,9 +93,7 @@ font-family: 'Ubuntu', sans-serif;
         .contact{
                 width: 100%;
         }
- 
-
-                
+     
         }
        
        
