@@ -46,7 +46,7 @@ font-family: 'Ubuntu', sans-serif;
         margin-top: 25px;
 }
 .bage{
-        left: 200px;
+        left: 85%;
 }
 .haighlite{
         background-color: rgb(99, 146, 117);
@@ -71,7 +71,12 @@ font-family: 'Ubuntu', sans-serif;
         .haighlite{
         position: none;
         top: 500px;
+
                 
+        }
+       
+        .right-image img{
+                width:50%;
         }
         
 }
