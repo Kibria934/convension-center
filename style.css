@@ -12,9 +12,7 @@ font-family: 'Ubuntu', sans-serif;
         color: #3E3E3E;
         font-size: 25px;
 }
-.banner{
-        /* margin-top: 100px; */
-}
+
 
 
 .text-color{
@@ -25,13 +23,37 @@ font-family: 'Ubuntu', sans-serif;
         margin-top: 200px;
         
 }
+.custom-color{
+        color: #231D4F;
+}
+.card-title{
+        font-size: 38px;
+        color: #231D4F;
+}
  .list{
         font-size: 15px;
         list-style: none;
-       margin-left: -10px;
+       padding-left: 5px;
 }
-
-
+.card-btn{
+        background-color: antiquewhite;
+        border-radius: 20px;
+        width: 180px;
+        height: 45px;
+        color: rgb(17, 17, 98);
+        font-size: 16px;
+        font-weight: 600;
+        margin-top: 25px;
+}
+.bage{
+        left: 200px;
+}
+.haighlite{
+        background-color: rgb(99, 146, 117);
+        padding-bottom: 50px;
+        padding-left: 15px;
+        color: #fff;
+}
 
 
 
@@ -42,6 +64,14 @@ font-family: 'Ubuntu', sans-serif;
         }
         .a{
                 margin-left: 30%;
+        }
+        .second{
+                position: relative;
+        }
+        .haighlite{
+        position: none;
+        top: 500px;
+                
         }
         
 }
